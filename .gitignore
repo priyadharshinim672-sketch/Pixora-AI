@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+generated_images/
+edited_images/
+
+edited_test.png
+test_edit.py
+test_image.jpg
+
+.idea/
